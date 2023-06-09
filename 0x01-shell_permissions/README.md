@@ -1,1 +1,1 @@
-Shell Permissons
+Shell Permissions
